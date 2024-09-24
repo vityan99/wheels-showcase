@@ -1,0 +1,31 @@
+.wheels {
+  width: 700px;
+  min-height: 100px;
+  background-color: #fff;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  padding: 30px;
+  margin-bottom: 50px;
+}
+
+.wheels__container {
+  display: flex;
+  justify-content: space-between;
+  width: 600px;
+  margin-bottom: 30px;
+}
+
+.wheels__img-wrapper {
+  width: 170px;
+  height: 170px;
+}
+
+.wheels__controllers {
+  display: flex;
+  justify-content: space-between;
+  width: 540px;
+  margin-bottom: 15px;
+}
